@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-03-11T13:12:26+00:00</lastmod>
+		<lastmod>2023-03-12T10:17:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/talabd-ep-10%f0%9f%a5%80%e2%9d%a4-i-miss-you-%f0%9f%a5%80-%f0%9f%a5%80%e2%9d%a4i-love-you-janu/</loc>
@@ -216,6 +216,16 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/03/Untitled-design-24.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/a-gay-horse/</loc>
+		<lastmod>2023-03-12T10:17:52+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Untitled-design-25.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/03/Untitled-design-25.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
